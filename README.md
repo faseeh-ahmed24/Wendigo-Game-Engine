@@ -1,6 +1,6 @@
 # Java Game Engine + Tile Map Editor
 
-Lightweight 2D game engine and tile map editor built in Java.
+Lightweight 2D game engine and tile map editor built in Java. Made with @deter0 on GitHub
 
 ---
 
