@@ -1,6 +1,6 @@
 # Java Game Engine + Tile Map Editor
 
-Lightweight 2D game engine and tile map editor built in Java with a focus on flexibility, speed, and clean tooling for rapid game development.
+Lightweight 2D game engine and tile map editor built in Java.
 
 ---
 
